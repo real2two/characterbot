@@ -1,0 +1,7 @@
+name = "characterbot"
+main = "./src/server.ts"
+compatibility_date = "2024-06-19"
+compatibility_flags = [ "nodejs_compat" ]
+
+[dev]
+port = 3000

@@ -1,0 +1,12 @@
+{
+  "name": "characterbot-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "express": "^4.19.2"
+  }
+}
