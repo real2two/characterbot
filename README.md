@@ -16,6 +16,8 @@ Then, set your application name as your character name, click the checkmark, and
 
 Now, you'll see this screen. You can change your character's name here and also set your character's "About Me" description. Also, make sure to copy the "Application ID" on the side, because you'll need it later.
 
+> This is absolutely optional but: you could put `https://github.com/real2two/characterbot/blob/main/README.md` on the bottom of the character's description to share this project around!
+
 ![image3](/assets/image3.png)
 
 Go to the "Installation" page, toggle on "User Install", set the Install Link as "Discord Provided Link" and click "Save Changes".
